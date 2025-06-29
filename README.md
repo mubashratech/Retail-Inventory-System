@@ -73,7 +73,7 @@ Environment: Console Application
 
 <iomanip> for formatted output
 
---- Images ---
+ --- Images ---
 
 ![image](https://github.com/user-attachments/assets/fd8330db-2888-4160-8372-4f9f706f7cda)
 
